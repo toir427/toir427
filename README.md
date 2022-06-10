@@ -5,7 +5,7 @@ A passionate self-study Software Engineer. My passion for software lies with dre
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-- 💼 I'm looking for a job opportunity on an open source project.
+- 💼 I'm looking for a job opportunity on OpenSource projects.
 
 ### Connect with me:
 
