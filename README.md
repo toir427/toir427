@@ -6,6 +6,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 
 - 💼 I'm looking for a job opportunity on OpenSource projects.
+- 🔭 Full-stack developer with a passion for backend development.
+- 👀 Interested in **sustainability**, **music**, **photography** and **everything creative**!
+- 🌱 Currently learning English...
 
 ### Connect with me:
 
