@@ -1,4 +1,4 @@
-### Hi 👋, I'm [Tuychiev Toir][linkedin]
+### Hi 👋, I'm [To'ychiev Toxir][linkedin]
 
 A passionate self-study Software Engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
